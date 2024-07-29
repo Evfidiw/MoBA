@@ -1,4 +1,4 @@
-# MoBA: Mixture of Bi-directional Adapter for Multi-modal Sarcasm Detection
+# MoBA: Mixture of Bidirectional Adapter for Multi-modal Sarcasm Detection
 
 
 
@@ -6,7 +6,7 @@
 
 This repository contains the offical implementation of paper:
 
-_MoBA: Mixture of Bi-directional Adapter for Multi-modal Sarcasm Detection_, ACM MM 2024
+_MoBA: Mixture of Bidirectional Adapter for Multi-modal Sarcasm Detection_, ACM MM 2024
 
 
 
