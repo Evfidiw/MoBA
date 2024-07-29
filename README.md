@@ -22,7 +22,7 @@ _MoBA: Mixture of Bidirectional Adapter for Multi-modal Sarcasm Detection_, ACM 
 
 2. Download the data.
 
-    Plesae visit [here](https://github.com/headacheboy/data-of-multimodal-sarcasm-detection) to download the image data and put them into folder `data/dataset_image`.
+    Please visit [here](https://github.com/headacheboy/data-of-multimodal-sarcasm-detection) to download the image data and put them into folder `data/dataset_image`.
 
      
 
