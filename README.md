@@ -34,13 +34,13 @@ _MoBA: Mixture of Bi-directional Adapter for Multi-modal Sarcasm Detection_, ACM
 
 4. Run the scripts.
 
-````
-# MMSD2.0
-sh scripts/2train.sh
-
-# MMSD
-sh scripts/train.sh
-````
+    ```
+    # MMSD2.0
+    sh scripts/2train.sh
+    
+    # MMSD
+    sh scripts/train.sh
+    ```
 
 
 
