@@ -52,5 +52,5 @@ If you find this project useful for your research, please consider citing the fo
 
 ## Acknowledge
 
-- We sincerely thank the [MultiCLIP](https://github.com/JoeYing1019/MMSD2.0?tab=readme-ov-file), as most of our code is based on it.
+- We sincerely thank the [Multi-view CLIP](https://github.com/JoeYing1019/MMSD2.0), as most of our code is based on it.
 - We also greatly appreciate [HKE](https://github.com/less-and-less-bugs/HKEmodel) and [DynRT](https://github.com/TIAN-viola/DynRT).
