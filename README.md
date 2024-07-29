@@ -6,7 +6,7 @@
 
 This repository contains the offical implementation of paper:
 
-MoBA: Mixture of Bi-directional Adapter for Multi-modal Sarcasm Detection , ACM MM 2024
+_MoBA: Mixture of Bi-directional Adapter for Multi-modal Sarcasm Detection_, ACM MM 2024
 
 
 
@@ -27,6 +27,7 @@ MoBA: Mixture of Bi-directional Adapter for Multi-modal Sarcasm Detection , ACM 
      
 
 3. Download pre-train models.
+   
     Please donwload the [CLIP](https://huggingface.co/openai/clip-vit-large-patch14) locally.
 
 
