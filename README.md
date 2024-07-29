@@ -48,6 +48,15 @@ _MoBA: Mixture of Bidirectional Adapter for Multi-modal Sarcasm Detection_, ACM 
 
 If you find this project useful for your research, please consider citing the following paper.
 
+````
+@inproceedings{xie2024moba,
+  title={MoBA: Mixture of Bidirectional Adapter for Multi-modal Sarcasm Detection},
+  author={Xie, Yifeng and Zhu, Zhihong and Chen, Xin and Chen, Zhanpeng and Huang, Zhiqi},
+  booktitle={Proc. of ACM MM},
+  year={2024}
+}
+````
+
 
 
 ## Acknowledge
